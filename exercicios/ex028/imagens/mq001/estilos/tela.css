@@ -23,6 +23,7 @@ header > h1{
 menu ul{
     list-style-type: none;
     background-color: grey;
+    text-align: center;
     
 }
 
